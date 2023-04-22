@@ -1,0 +1,7 @@
+/logs
+/outputs
+*.png
+*.pkl
+__pycache__/
+*.csv
+*.pyc 
